@@ -20,6 +20,8 @@
 |ChainId|1440002|
 
 
+### Slides
+- [TartanHacks 2025 Slides](slides/TartanHacks2025.pdf)
 
 ### Workshops
 - [XRPL EVM Hardhat Quickstart](https://github.com/maximedgr/xrpl-evm-quickstart-hardhat)
