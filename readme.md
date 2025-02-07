@@ -9,7 +9,7 @@
 - [TartanHacks 2025 Slides](slides/TartanHacks2025.pdf)
 
 ----
-## Additional Developer Resources
+## Additional Resources
 
 ### Connecting to the XRPL EVM Sidechain
 |EVM Dev|Resource|
