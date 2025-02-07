@@ -7,6 +7,7 @@
 
 ### Slides
 - [TartanHacks 2025 Slides](slides/TartanHacks2025.pdf)
+- [XRPL Basics](slides/xrplbasics.pdf)
 
 ----
 ## Additional Resources
