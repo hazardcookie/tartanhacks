@@ -1,12 +1,15 @@
 # TartanHacks 2025 - Ripple Resources
 
 ## Recommended Developer Resources
-[Developer Resources](https://linktr.ee/rippledevrel)
-[RLUSD](https://tryrlusd.com/)
-[XRPL Docs](https://xrpl.org/)
+- [Developer Resources](https://linktr.ee/rippledevrel)
+- [RLUSD](https://tryrlusd.com/)
+- [XRPL Docs](https://xrpl.org/)
 
+### Slides
+- [TartanHacks 2025 Slides](slides/TartanHacks2025.pdf)
 
-## Additional Developer Resources
+----
+## Additional Resources
 
 ### Connecting to the XRPL EVM Sidechain
 |EVM Dev|Resource|
@@ -17,8 +20,7 @@
 |ChainId|1440002|
 
 
-### Slides
-- [TartanHacks 2025 Slides](slides/TartanHacks2025.pdf)
+
 
 ### Workshops
 - [XRPL EVM Hardhat Quickstart](https://github.com/maximedgr/xrpl-evm-quickstart-hardhat)
