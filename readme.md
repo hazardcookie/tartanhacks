@@ -1,4 +1,4 @@
-# TartanHacks 2025 - Ripple Resources
+# TartanHacks 2025
 
 ## Recommended Developer Resources
 - [Developer Resources](https://linktr.ee/rippledevrel)
